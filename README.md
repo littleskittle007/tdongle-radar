@@ -1,4 +1,4 @@
-# T-Dongle-S3 Radio Radar
+# T-Dongle-S3 Radio Radar (NETWATCH)
 
 A passive WiFi + Bluetooth scanner drawn as a sweeping radar. The dongle
 **transmits nothing** — it only reads the beacons and advertising packets
